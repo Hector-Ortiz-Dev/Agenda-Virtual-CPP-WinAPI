@@ -1,4 +1,4 @@
-# 📅 Agenda Virtual CPP WinAPI
+# 📅 Agenda Virtual C++ WinAPI
 
 ¡Bienvenido a mi Agenda Virtual! Este proyecto fue desarrollado como parte de la asignatura "Programación Avanzada" en la carrera de Licenciatura en Multimedia y Animación Digital de la Facultad de Ciencias Físicas y Matemáticas de la Universidad Autónoma de Nuevo León.
 
