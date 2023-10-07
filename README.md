@@ -10,6 +10,10 @@
 - **Calendario Integrado:** Visualiza todos los eventos registrados en un calendario interactivo.
 - **Almacenamiento Local:** Todos los datos se guardan de manera local en archivos binarios.
 
+## 💼 Dirigido a Futuros Empleadores
+
+Este proyecto forma parte de mi portafolio y demuestra las primeras habilidades obtenidas en programación en C++ y el uso de la librería WinAPI. Si estás interesado en conocer más sobre mi trabajo y experiencia en desarrollo de software, ¡explora este repositorio!
+
 ## 📂 Estructura del Repositorio
 
 - `main.cpp`: El archivo principal que contiene todo el código fuente del programa.
